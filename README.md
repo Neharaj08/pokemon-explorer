@@ -23,7 +23,7 @@ Features
 
 Setup and Installation
 1) Clone the repository 
-   git clone https://github.com/your-username/pokemon-explorer.git
+   git clone https://github.com/Neharaj08/pokemon-explorer.git
    cd pokemon-explorer
 2) npm install
 3) npm start
